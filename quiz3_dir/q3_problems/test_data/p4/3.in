@@ -1,0 +1,5 @@
+{
+  "test": "term.transcript('Reif, Rafael') => None",
+  "method": "transcript",
+  "method_args": ["Reif, Rafael"]
+}

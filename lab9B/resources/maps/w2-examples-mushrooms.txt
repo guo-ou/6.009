@@ -1,0 +1,6 @@
+cm         mc
+ B f       B
+ Bcc    cccB
+ B    c    B
+ Bp   f   CB
+ ===========

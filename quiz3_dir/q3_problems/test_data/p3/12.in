@@ -1,0 +1,7 @@
+{
+  "test": "get_class_days(6.006, 6.042)",
+  "function": "get_class_days",
+  "inputs": {
+    "class_list": ["6.006", "6.042"]
+  }
+}

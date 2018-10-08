@@ -1,0 +1,6 @@
+{
+  "test": "term.drop('Pollard, Cyrus','CHEM.11') => student not in class",
+  "method": "drop",
+  "method_args": ["Pollard, Cyrus","CHEM.11"],
+  "check_transcripts_and_classlists": {"transcripts": ["Pollard, Cyrus"], "classlists": ["CHEM.11"]}
+}

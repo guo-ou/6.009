@@ -1,0 +1,5 @@
+{
+  "test": "term.classlist('6.009') => None",
+  "method": "classlist",
+  "method_args": ["6.009"]
+}

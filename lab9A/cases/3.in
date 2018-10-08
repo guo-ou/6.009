@@ -1,0 +1,4 @@
+{"type": "replay",
+ "test": "w1-tests-03-init-render.txt",
+ "window": [384, 512],
+ "events": []}

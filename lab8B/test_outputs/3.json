@@ -1,0 +1,152 @@
+[
+  {
+    "ok": true,
+    "output": "bare-name"
+  },
+  {
+    "ok": true,
+    "output": 6.28
+  },
+  {
+    "ok": true,
+    "output": [
+      "spam"
+    ]
+  },
+  {
+    "ok": true,
+    "output": [
+      "john",
+      "paul",
+      "george",
+      "ringo"
+    ]
+  },
+  {
+    "ok": false,
+    "type": "SyntaxError"
+  },
+  {
+    "ok": false,
+    "type": "SyntaxError"
+  },
+  {
+    "ok": false,
+    "type": "SyntaxError"
+  },
+  {
+    "ok": true,
+    "output": "spam"
+  },
+  {
+    "ok": true,
+    "output": [
+      "numbers",
+      3.14,
+      3,
+      -2,
+      -2.4
+    ]
+  },
+  {
+    "ok": true,
+    "output": [
+      "multi",
+      "line",
+      "statement"
+    ]
+  },
+  {
+    "ok": true,
+    "output": [
+      "with",
+      "comments"
+    ]
+  },
+  {
+    "ok": true,
+    "output": [
+      "multiline",
+      "statement"
+    ]
+  },
+  {
+    "ok": true,
+    "output": [
+      "weird",
+      "white",
+      "space"
+    ]
+  },
+  {
+    "ok": true,
+    "output": [
+      "w3!|]\\d5y8[]1$"
+    ]
+  },
+  {
+    "ok": true,
+    "output": [
+      "nested",
+      [
+        "expressions",
+        [
+          "test"
+        ],
+        [
+          "is",
+          "here"
+        ],
+        [
+          [
+            [
+              [
+                "now"
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  },
+  {
+    "ok": false,
+    "type": "SyntaxError"
+  },
+  {
+    "ok": true,
+    "output": [1, 2, 3, 4]
+  },
+  {
+    "ok": false,
+    "type": "SyntaxError"
+  },
+  {
+    "ok": true,
+    "output": [["cat"], ["dog"]]
+  },
+  {
+    "ok": true,
+    "output": ["x"]
+  },
+  {
+    "ok": false,
+    "type": "SyntaxError"
+  },
+  {
+    "ok": true,
+    "output": ["y", 14]
+  },
+  {
+    "ok": false,
+    "type": "SyntaxError"
+  },
+  {
+    "ok": false,
+    "type": "SyntaxError"
+  },
+  {
+    "ok": false,
+    "type": "SyntaxError"
+  }
+]

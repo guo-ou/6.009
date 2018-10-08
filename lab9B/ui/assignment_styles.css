@@ -1,0 +1,95 @@
+#s04-ribbon {
+  background-color: #5c6bc0;
+}
+
+#s04-main {
+  flex-direction: column;
+  align-items: center;
+}
+
+main > hr {
+  width: 128px;
+}
+
+main {
+  text-align: center;
+}
+
+main > * {
+  max-width: 90%;
+}
+
+canvas {
+  min-width: 128px;
+  outline: 1px solid #CFD8DC;
+  image-rendering: pixelated;
+}
+
+#rpc_status {
+  order: 99;
+  height: 40px;
+  padding: 20px;
+}
+
+#state {
+  padding-top: 20px;
+  text-transform: uppercase;
+}
+#state #game-state {
+  font-weight: bold;
+}
+
+button.round-button {
+  border-radius: 20px;
+}
+
+button.small-button {
+  width:48px;
+  min-width:0px;
+}
+
+button.button-on {
+  font-weight: bold;
+}
+
+#game-options {
+  width: 90%;
+}
+
+#play-controls, #debugging-options {
+  padding: 10px 0;
+}
+
+#debugging-options {
+  display: flex;
+  justify-content: space-around;
+}
+
+#ghost-options {
+  width: 160px;
+}
+
+#ghost {
+  margin-bottom: 20px;
+}
+
+.view-toggle {
+  padding: 10px 0;
+}
+
+.warning {
+  color: #b71c1c;
+}
+
+.no-display {
+  display: none;
+}
+
+#map_list {
+  max-height: 600px;
+  overflow-y: scroll;
+}
+
+#ghost, .view-toggle {
+  visibility: hidden;
+}

@@ -1,0 +1,15 @@
+{
+    "test": "has_liberty(board,2,1) == False",
+    "function": "has_liberty",
+    "inputs": {
+        "board": [
+            ".bwwb",
+            "bbwwb",
+            "bwb.w",
+            "bbwbw",
+            "wbwwb"
+        ],
+        "row": 2,
+        "col": 1
+    }
+}

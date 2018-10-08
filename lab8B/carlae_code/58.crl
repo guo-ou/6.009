@@ -1,0 +1,6 @@
+(define y 10)
+y
+((lambda (z) (set! y (+ z y))) 9)
+y
+((lambda (z) (set! x (+ z y))) 9)
+x

@@ -1,0 +1,5 @@
+{
+  "test": "term.too_many_subjects(6) => []",
+  "method": "too_many_subjects",
+  "method_args": [6]
+}

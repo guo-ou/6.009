@@ -1,0 +1,33 @@
+#s04-ribbon {
+  background-color: #ff9100;
+}
+
+.node {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+.link {
+  stroke-opacity: .6;
+}
+
+.mdl-tabs__panel {
+  text-align: center;
+}
+
+.bad {
+  color: #B71C1C;
+}
+
+#graph {
+  width: 100%;
+}
+
+.full-center {
+  width: 100%;
+  text-align: center;
+}
+
+#message_out {
+  height: 40px;
+}

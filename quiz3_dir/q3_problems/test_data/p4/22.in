@@ -1,0 +1,5 @@
+{
+  "test": "term.better_together(4) => 6",
+  "method": "better_together",
+  "method_args": [4]
+}

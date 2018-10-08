@@ -1,0 +1,14 @@
+{
+    "test": "capture(board,'b') == ... see 29.out ...",
+    "function": "capture",
+    "inputs": {
+        "board": [
+            ".bwwb",
+            "bbwwb",
+            "bwb.w",
+            "bbwbw",
+            "wbwwb"
+        ],
+        "color": "b"
+    }
+}

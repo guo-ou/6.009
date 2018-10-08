@@ -1,0 +1,11 @@
+{"type": "replay",
+ "test": "w1-tests-21-castle.txt",
+ "window": [10240, 10240],
+ "events": [["right"], ["right"], ["right"], ["right"], ["right"],
+            ["right"], ["right"], ["right"], ["right"], ["right"],
+            ["right"], ["right"], ["right"], ["right"], ["right"],
+            ["right"], ["right"], ["right"], ["right"], ["right"],
+            ["right"], ["right"], ["right"], ["right"], ["right"],
+            ["right"], ["right"], ["right"], ["right"], ["right"],
+            ["right"], ["right"], ["right"], ["right"], ["right"],
+            ["right"], ["right"], ["right"], ["right"], ["right"]]}

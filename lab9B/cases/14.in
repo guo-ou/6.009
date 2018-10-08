@@ -1,0 +1,5 @@
+{"type": "replay",
+ "test": "w1-tests-14-collisions-slide-left.txt",
+ "window": [512, 2048],
+ "events": [["left"], ["left"], ["left"], ["left"], ["left"], ["left"], [], [], [], [],
+            ["left"], ["left"], ["left"], ["left"], ["left"], ["left"], [], [], [], []]}

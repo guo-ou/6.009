@@ -1,0 +1,5 @@
+{
+  "test": "term.classlist('MATH.38') => ... see cases/4.out ...",
+  "method": "classlist",
+  "method_args": ["MATH.38"]
+}

@@ -1,0 +1,6 @@
+{
+  "test": "term.add('Munoz, Stewart','MATH.31') => ... check transcript and MATH.31 classlist ...",
+  "method": "add",
+  "method_args": ["Munoz, Stewart","MATH.31"],
+  "check_transcripts_and_classlists": {"transcripts": ["Munoz, Stewart"], "classlists": ["MATH.31"]}
+}

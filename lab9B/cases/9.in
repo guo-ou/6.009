@@ -1,0 +1,6 @@
+{"type": "replay",
+ "test": "w1-tests-09-events-right.txt",
+ "window": [10240, 10240],
+ "events": [["right"], ["right"], ["right"], ["right"], ["right"], ["right"], ["right"],
+            [], [], [], [], [], [], [],
+            ["right"], ["right"], ["right"], ["right"], ["right"], ["right"], ["right"]]}

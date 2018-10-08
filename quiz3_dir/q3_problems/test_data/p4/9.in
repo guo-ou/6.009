@@ -1,0 +1,6 @@
+{
+  "test": "term.add('Bitdiddle, Ben','6.009') => new student and new subject",
+  "method": "add",
+  "method_args": ["Bitdiddle, Ben","6.009"],
+  "check_transcripts_and_classlists": {"transcripts": ["Bitdiddle, Ben"], "classlists": ["6.009"]}
+}

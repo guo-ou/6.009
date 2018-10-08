@@ -1,0 +1,1 @@
+lab.Mul(lab.Mul(lab.Var('x'), lab.Var('y')), lab.Var('z')).eval({'x': -875, 'y': -263, 'z': -142})

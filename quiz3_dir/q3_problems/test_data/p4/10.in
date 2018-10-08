@@ -1,0 +1,6 @@
+{
+  "test": "term.drop('Oliver, Ralph','MATH.36') => ... check transcript and MATH.36 classlist ...",
+  "method": "drop",
+  "method_args": ["Oliver, Ralph","MATH.36"],
+  "check_transcripts_and_classlists": {"transcripts": ["Oliver, Ralph"], "classlists": ["MATH.36"]}
+}

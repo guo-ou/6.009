@@ -1,0 +1,6 @@
+{
+  "test": "term.add('Munoz, Stewart','EECS.22') => no changes (already registered for subject)",
+  "method": "add",
+  "method_args": ["Munoz, Stewart","EECS.22"],
+  "check_transcripts_and_classlists": {"transcripts": ["Munoz, Stewart"], "classlists": ["EECS.22"]}
+}

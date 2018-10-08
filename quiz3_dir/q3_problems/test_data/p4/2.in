@@ -1,0 +1,5 @@
+{
+  "test": "term.transcript('Mercer, Ishmael') => ['EECS.38', 'EECS.32', 'HASS.21', 'MATH.21', 'HASS.23', 'CHEM.22']",
+  "method": "transcript",
+  "method_args": ["Mercer, Ishmael"]
+}

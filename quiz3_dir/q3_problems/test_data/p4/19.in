@@ -1,0 +1,5 @@
+{
+  "test": "term.taking_some(['MATH.32','MATH.33']) => ... see 19.out ...",
+  "method": "taking_some",
+  "method_args": [["MATH.32","MATH.33"]]
+}

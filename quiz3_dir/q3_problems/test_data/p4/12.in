@@ -1,0 +1,6 @@
+{
+  "test": "term.drop('Bitdiddle, Ben','6.009') => unknown student, unknown class",
+  "method": "drop",
+  "method_args": ["Bitdiddle, Ben","6.009"],
+  "check_transcripts_and_classlists": {"transcripts": ["Bitdiddle,Ben"], "classlists": ["6.009"]}
+}

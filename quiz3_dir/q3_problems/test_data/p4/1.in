@@ -1,0 +1,5 @@
+{
+  "test": "term.transcript('Torres, Cheyenne') => ['CHEM.34', 'MATH.11', 'EECS.31', 'MATH.23']",
+  "method": "transcript",
+  "method_args": ["Torres, Cheyenne"]
+}

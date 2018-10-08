@@ -1,0 +1,5 @@
+[{"data": 0, "left": null, "right": 1, "prev": null, "next": 1},
+ {"data": 1, "left": null, "right": 2, "prev": 0, "next": 3},
+ {"data": 3, "left": 3, "right": 4, "prev": 3, "next": 4},
+ {"data": 2, "left": null, "right": null, "prev": 1, "next": 2},
+ {"data": 4, "left": null, "right": null, "prev": 2, "next": null}]

@@ -1,0 +1,7 @@
+{"type": "replay",
+ "test": "w1-tests-06-events-left.txt",
+ "window": [10240, 10240],
+ "events": [["left"], ["left"], ["left"], ["left"], ["left"], ["left"], ["left"],
+            ["left"], ["left"], ["left"], ["left"], ["left"], ["left"], ["left"],
+            ["left"], ["left"], ["left"], ["left"], ["left"], ["left"], ["left"],
+            [], [], [], []]}

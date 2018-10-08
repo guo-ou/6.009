@@ -1,0 +1,1 @@
+lab.Add(lab.Mul(lab.Var('z'), lab.Num(3)), lab.Num(0)).eval({'z': 696})

@@ -1,0 +1,11 @@
+{"type": "replay",
+ "test": "w2-tests-25-multiple-jumps.txt",
+ "window": [10240, 10240],
+ "events": [["up"], ["up"], ["up"], ["up"], ["up"],
+            ["up"], ["up"], ["up"], ["up"], ["up"],
+            ["up"], ["up"], ["up"], ["up"], ["up"],
+            ["up"], ["up"], ["up"], ["up"], ["up"],
+            ["up"], ["up"], ["up"], ["up"], ["up"],
+            ["up"], ["up"], ["up"], ["up"], ["up"],
+            ["up"], ["up"], ["up"], ["up"], ["up"],
+            ["up"], ["up"], ["up"], ["up"], ["up"]]}
